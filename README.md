@@ -69,12 +69,14 @@
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting. [:book:][vmd-doc]
 * [PyMOL](https://pymol.org/2/) - A user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger. [:book:][pymol-doc]
 * [OVITO](https://ovito.org/) - OVITO is a scientific visualization and analysis software for atomistic and particle simulation data. [:book:][ovito-doc]
+* [AtomEye](http://li.mit.edu/A/Graphics/A) - AtomEye: atomistic configuration viewer. [:book:][atomeye-doc]
 
 [avogadro-code]: https://github.com/cryos/avogadro
 [avogadro-doc]: https://avogadro.cc/docs/
 [vmd-doc]: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 [pymol-doc]: http://pymol.sourceforge.net/newman/userman.pdf
 [ovito-doc]: http://www.ovito.org/manual/
+[atomeye-doc]: http://li.mit.edu/A/Graphics/A/#manual
 
 ## Contributing
 
